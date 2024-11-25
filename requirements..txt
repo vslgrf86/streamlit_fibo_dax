@@ -1,4 +1,4 @@
-yfinance
 pandas
-streamlit>=0.78.0
 plotly
+streamlit
+yfinance
